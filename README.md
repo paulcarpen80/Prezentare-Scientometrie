@@ -1,2 +1,2 @@
 # Prezentare-Scientometrie
-Proiect din anul I de Masterat
+Project presented during the 2nd year of my Master's degree.
