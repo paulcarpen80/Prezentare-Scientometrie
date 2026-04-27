@@ -1,2 +1,2 @@
 # Prezentare-Scientometrie
-Project presented during the 2nd year of my Master's degree.
+Project presented during the first year of my Master's degree.
